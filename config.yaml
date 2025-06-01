@@ -1,0 +1,9 @@
+openai:
+  api_key: "YOUR_OPENAI_API_KEY"
+  model: "gpt-3.5-turbo"
+
+splunk:
+  host: "splunk.example.com"
+  port: 8089
+  username: "admin"
+  password: "changeme"
