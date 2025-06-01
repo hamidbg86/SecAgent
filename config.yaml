@@ -1,9 +1,14 @@
-openai:
-  api_key: "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"
-  model: "gpt-3.5-turbo"
+ollama:
+  model: "llama3"
+  ollama_url: "http://localhost:11434"
 
 splunk:
   host: "localhost"
   port: 8089
   username: "admin"
-  password: "changeme"
+  password: "@rinas@2025"
+virustotal:
+  api_key: "8d91f32f5230f3fc653ea8f9753690cd3dcaf1046963297ba4cc2f5c104d8ef1"
+abuseipdb:
+  api_key: "16bb46f8491cc24b904f90469c90243bae7ef2abfcd0fe4896e2001746f2f45dececf87c873193bb"
+  
