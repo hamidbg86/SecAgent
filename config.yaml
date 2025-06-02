@@ -6,9 +6,9 @@ splunk:
   host: "localhost"
   port: 8089
   username: "admin"
-  password: "@rinas@2025"
+  password: ""
 virustotal:
-  api_key: "8d91f32f5230f3fc653ea8f9753690cd3dcaf1046963297ba4cc2f5c104d8ef1"
+  api_key: ""
 abuseipdb:
-  api_key: "16bb46f8491cc24b904f90469c90243bae7ef2abfcd0fe4896e2001746f2f45dececf87c873193bb"
+  api_key: ""
   
